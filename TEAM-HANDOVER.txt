@@ -1,0 +1,18 @@
+EDUSPHERIX INTERNATIONAL SCHOOL — TEAM HANDOVER
+================================================
+Open index.html to preview the website.
+
+Shared design files:
+- assets/styles.css
+- assets/script.js
+- assets/eduspherix-logo.png
+
+Before publishing:
+1. Replace the demo campus address with the school's verified address.
+2. Confirm the phone number and email.
+3. Replace illustrative photos with school-approved photos.
+4. Confirm curriculum, grades, admission process, fees and board affiliation.
+5. Connect forms to the approved CRM/backend if enquiries must be stored.
+6. Review Privacy Policy and Terms with the school.
+
+Demo enquiry forms open WhatsApp to +91 88616 39473.
